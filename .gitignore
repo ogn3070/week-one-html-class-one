@@ -1,0 +1,6 @@
+# Ignore practice folder (rough code, drafts, experiments)
+practice/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
